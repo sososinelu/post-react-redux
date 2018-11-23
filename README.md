@@ -1,8 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Tutorial: https://appdividend.com/2018/06/15/react-redux-axios-tutorial-example/
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `nodemon server/server.js`
+
+Runs the server env and mongodb
 
 ### `npm start`
 
